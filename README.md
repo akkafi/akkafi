@@ -1,29 +1,5 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=MD%3AAbdullah%20kafi&fontSize=50&fontColor=fff&animation=fadeIn)
 
-<div align="center">
-
-### Frontend Developer | Bangladesh
-
-A passionate developer.
-
-</div>
-
----
-
-### 💻 Tech Stack
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md:abdullahkafi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md:abdullahkafi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
 
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
@@ -64,7 +40,7 @@ Currently improving my problem-solving skills and learning advanced frontend tec
 ---
 [![](https://komarev.com/ghpvc/?username=akkafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
