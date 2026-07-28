@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MD%3AAbdullah%20kafi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MD%3AAbdullah%20Al%20kafi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=akkafi">
     <img src="https://komarev.com/ghpvc/?username=akkafi&label=Profile%20views&color=00FFFF&style=flat-square" alt="akkafi's profile views" />
   </a>
 </p>
+
 
 
 ## 🧠 My Focus Areas
